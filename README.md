@@ -111,7 +111,11 @@ We experimented with **three models**:
 ![Severity Distribution](https://github.com/cantor08/Traffic-Accident-Severity-Prediction-/blob/main/ScreenShot/Home%20Tab.png)
 
 ### Weather Mode tab
-![Severity Distribution](https://github.com/cantor08/Traffic-Accident-Severity-Prediction-/blob/main/ScreenShot/Wheather%20Mode%20Tab.png)
+![Severity Distribution](https://github.com/cantor08/Traffic-Accident-Severity-Prediction-/blob/main/ScreenShot/Wheather%20Mode%20Tab.png) 
+
+### Forecasting Models Tab
+
+![Severity Distribution](https://github.com/cantor08/Traffic-Accident-Severity-Prediction-/blob/main/ScreenShot/Forecasting%20tab.png)
 
 ## 🎥 Demo & Video
 
