@@ -132,7 +132,7 @@ We experimented with **three models**:
 
 ---
 
-## 👥 Contributors
+## 👥 Contributor
 
 - **Maulik Raval**
-- **Hemin Shah**
+
