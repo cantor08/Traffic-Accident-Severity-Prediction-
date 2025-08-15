@@ -135,4 +135,5 @@ We experimented with **three models**:
 ## 👥 Contributor
 
 - **Maulik Raval**
+- **Hemin Shah**
 
