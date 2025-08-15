@@ -107,12 +107,15 @@ We experimented with **three models**:
 - Temporal patterns: peak accident hours in morning & evening rush.  
 
 **Example Visualization:**
-
+### Home Tab
 ![Severity Distribution](https://github.com/cantor08/Traffic-Accident-Severity-Prediction-/blob/main/ScreenShot/Home%20Tab.png)
+
+### Weather Mode tab
+![Severity Distribution](https://github.com/cantor08/Traffic-Accident-Severity-Prediction-/blob/main/ScreenShot/Wheather%20Mode%20Tab.png)
 
 ## 🎥 Demo & Video
 
-📌 **Video Demo:** [Watch on YouTube](https://youtu.be/3ujSNFvaCvs) *(Replace with your actual link)*   
+📌 **Video Demo:** [Watch on YouTube](https://youtu.be/3ujSNFvaCvs) 
 
 ---
 
