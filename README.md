@@ -108,7 +108,7 @@ We experimented with **three models**:
 
 **Example Visualization:**
 
-![Severity Distribution](assets/severity_distribution.png)
+![Severity Distribution](https://github.com/cantor08/Traffic-Accident-Severity-Prediction-/blob/main/ScreenShot/Home%20Tab.png)
 
 ## 🎥 Demo & Video
 
